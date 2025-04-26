@@ -1,0 +1,1 @@
+export const ELASTIC_CONFIG = Symbol('ELASTIC_CONFIG')

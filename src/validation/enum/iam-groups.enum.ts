@@ -1,0 +1,20 @@
+export enum IAMGroupsEnum {
+    BRANCH_ADMIN = "branch_admin",
+    VIP_LIST = "vip_list",
+    LINE_EMPLOYEE = "line_employee",
+    APP_CRM_BACKEND = "Application/crm-backend",
+    // "Application/CBS_UAT",
+    // "MassBlocking",
+    // "Application/rtgs",
+    // "Application/black-list-panel",
+    // "Internal/everyone",
+    // "LatinStatement",
+    // "Application/money",
+    // "Application/paya",
+    // "Application/CBS-Job-Service",
+    // "Application/black-list",
+    // "Application/paya-panel",
+    // "Application/rtgs-panel",
+    // "Application/CBS",
+    // "Application/blue-admin-backend"
+}
